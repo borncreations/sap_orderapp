@@ -1,0 +1,9 @@
+Name=ErpQueryEndpoint
+URL=
+TrustAll=FALSE
+Type=HTTP
+Password=
+Authentication=BasicAuthentication
+User=
+proxyHost=proxy-trial.od.sap.biz
+proxyPort=8080
